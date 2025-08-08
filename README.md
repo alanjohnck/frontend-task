@@ -54,4 +54,3 @@ frontend-task/
 
 - Custom popup modal with tabs
 - Google Fonts integration (Kumbh Sans, Nunito Sans)
-- Responsive design with hover effects
