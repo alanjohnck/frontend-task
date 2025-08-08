@@ -1,0 +1,23 @@
+:root {
+  --font-geist-sans: 'Geist', sans-serif;
+  --font-geist-mono: 'Geist Mono', monospace;
+  --font-kumbh-sans: 'Kumbh Sans', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  font-family: var(--font-kumbh-sans), sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
